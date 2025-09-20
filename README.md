@@ -147,3 +147,7 @@ The program creates several files in its directory:
 * **`crash.log`** (and `crash(1).log...`): Automatically created if the program encounters a critical error. Contains technical information useful for the developer.
 
 ---
+
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
