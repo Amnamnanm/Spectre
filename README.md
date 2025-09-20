@@ -1,4 +1,4 @@
-
+### Note: The compiled .exe is unsigned. When you run it, Windows will show a SmartScreen warning. Please click "More info" -> "Run anyway" to proceed. For full transparency, you can always review and run the provided source code.
 ---
 
 # **Spectre Documentation**
